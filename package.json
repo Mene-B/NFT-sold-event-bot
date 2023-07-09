@@ -1,0 +1,17 @@
+{
+  "name": "opensea-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opensea/stream-js": "^0.1.1",
+    "opensea-js": "^6.0.6",
+    "pg": "^8.11.1",
+    "ws": "^8.13.0"
+  }
+}

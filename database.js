@@ -1,8 +1,8 @@
 const {Client} = require("pg");
 
 const client = new Client({
-    database:"NFT's sold",
-    password:"edouard2005",
+    database:"Name of your database",
+    password:"XXXXXXXX",
     user:"postgres",
     host:"localhost",
     port:5432
